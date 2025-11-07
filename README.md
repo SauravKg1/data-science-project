@@ -1,4 +1,3 @@
-# data-science-project
 # 👋 Hi, I'm Saurav Kumar Gupta
 
 ### 🚀 3-Line Summary
